@@ -1,4 +1,4 @@
-# CYpress framework - QA Challenge
+# Cypress framework - QA Challenge
 
 Automated test suite for API and UI using Cypress + JavaScript.
 
