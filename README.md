@@ -1,4 +1,4 @@
-# ABInBev QA Challenge
+# CYpress framework - QA Challenge
 
 Automated test suite for API and UI using Cypress + JavaScript.
 
